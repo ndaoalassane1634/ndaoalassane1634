@@ -3,7 +3,7 @@
 - ## 🌱 I’m currently learning a Simplon fro the formation DEVELLOPEUR IA and DATA
 - ## 💞️ I’m looking for an anternation in data
 - ## 📫 How to reach me on this email : ndaoalassane1634@gmail.com
- ##     or on my linkedIn profiles : http://www.linkedin.com/in/alassane-ndao
+   ##     or on my linkedIn profiles : http://www.linkedin.com/in/alassane-ndao
 
   
 <!---
